@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Overwatch Workshop Syntax Highlight",
+		"Package Control",
+		"Pygame Completions",
+		"Pygame-Completions"
+	],
+	"repositories":
+	[
+		"https://github.com/tushortz/Pygame-Completions",
+		"https://github.com/tushortz/Pygame-Completions"
+	]
+}
